@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chicago Landmarks Gallery</string>
+
+    <string name="explore_gallery">Explore gallery</string>
+    <string name="perm_label">Landmarks Gallery</string>
+    <string name="perm_description">open the landmarks gallery and access the pictures to display</string>
+
+    <string-array name="landmarks">
+        <item>Willis Tower</item>
+        <item>Millennium Park</item>
+        <item>Cloud Gate</item>
+        <item>Navy Pier</item>
+        <item>Shedd Aquarium</item>
+        <item>The Field Museum</item>
+        <item>Adler Planetarium</item>
+    </string-array>
+
+
+</resources>

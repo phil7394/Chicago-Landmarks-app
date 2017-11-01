@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Chicago Landmarks</string>
+    <string name="exit_app">Exit</string>
+    <string name="explore_gallery">Explore gallery</string>
+
+    <string-array name="landmarks">
+        <item>Willis Tower</item>
+        <item>Millennium Park</item>
+        <item>Cloud Gate</item>
+        <item>Navy Pier</item>
+        <item>Shedd Aquarium</item>
+        <item>The Field Museum</item>
+        <item>Adler Planetarium</item>
+    </string-array>
+
+    <string-array name="webpages">
+        <item>http://www.willistower.com</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/chicago_s_publicartcloudgateinmillenniumpark.html</item>
+        <item>https://navypier.org</item>
+        <item>https://www.sheddaquarium.org</item>
+        <item>https://www.fieldmuseum.org</item>
+        <item>http://www.adlerplanetarium.org</item>
+    </string-array>
+</resources>
